@@ -1,0 +1,17 @@
+{
+  "name": "tornado-ddos",
+  "version": "2.1.0",
+  "description": "Advanced HTTP/2 DDoS Tool with RST Stream",
+  "main": "Tornadooo.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "hpack": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node Tornadooo.js",
+    "install-deps": "npm install"
+  },
+  "keywords": ["http2", "ddos", "rst-stream", "security"],
+  "author": "Paro",
+  "license": "MIT"
+}
